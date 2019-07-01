@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">singaporeXchange-kotlin</string>
+    <string name="singapore_xchange">Singapore Xchange</string>
+    <string name="textview">Singapore Dollars (SGD) to Indian Rupees (INR)</string>
+    <string name="name">Enter value (SGD)</string>
+    <string name="button">Convert</string>
+    <string name="Label"/>
+    <string name="Footer">© 2019 - Singapore Xchange</string>
 </resources>
